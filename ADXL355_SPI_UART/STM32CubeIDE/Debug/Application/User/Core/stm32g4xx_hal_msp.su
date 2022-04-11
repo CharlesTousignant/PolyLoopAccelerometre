@@ -1,0 +1,5 @@
+C:/PolyLoop/UART_SPI/ADXL355_SPI_UART/Core/Src/stm32g4xx_hal_msp.c:63:6:HAL_MspInit	16	static
+C:/PolyLoop/UART_SPI/ADXL355_SPI_UART/Core/Src/stm32g4xx_hal_msp.c:89:6:HAL_SPI_MspInit	48	static
+C:/PolyLoop/UART_SPI/ADXL355_SPI_UART/Core/Src/stm32g4xx_hal_msp.c:126:6:HAL_SPI_MspDeInit	16	static
+C:/PolyLoop/UART_SPI/ADXL355_SPI_UART/Core/Src/stm32g4xx_hal_msp.c:156:6:HAL_UART_MspInit	112	static
+C:/PolyLoop/UART_SPI/ADXL355_SPI_UART/Core/Src/stm32g4xx_hal_msp.c:203:6:HAL_UART_MspDeInit	16	static
